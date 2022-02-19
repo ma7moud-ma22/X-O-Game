@@ -143,11 +143,12 @@ button {
 @media (max-width: 450px) {
   .container {
     transform: scale(0.65);
+    margin-left: -37px;
   }
 }
 @media (max-width: 350px) {
   .container {
-    transform: scale(0.55);
+    transform: scale(0.45);
+    margin-left: -65px;
   }
 }
-
