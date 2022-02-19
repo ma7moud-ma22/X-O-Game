@@ -145,3 +145,9 @@ button {
     transform: scale(0.65);
   }
 }
+@media (max-width: 350px) {
+  .container {
+    transform: scale(0.55);
+  }
+}
+
