@@ -135,7 +135,10 @@ cursor: pointer;
 }
 @media (max-width: 530px) {
   body {
-    transform: scale(0.7);
+    transform: scale(0.85);
+  }
+  button{
+    bottom: 120px;
   }
 }
 
