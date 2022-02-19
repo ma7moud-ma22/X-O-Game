@@ -138,13 +138,4 @@ cursor: pointer;
     transform: scale(0.7);
   }
 }
-@media (max-width: 430px) {
-  body {
-    transform: scale(0.5);
-  }
-}
-@media (max-width: 400px) {
-  body {
-    transform: scale(0.4);
-  }
-}
+
